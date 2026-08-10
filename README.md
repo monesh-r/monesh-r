@@ -126,7 +126,7 @@ Interactive analytics solution designed to analyze student performance, academic
 
 The project focuses on transforming student assessment data into actionable insights through dashboards, visual analytics, and structured reporting.
 
-🔗 **[View Project](https://github.com/Mo-nesh/Student-Performance-Analytics-Dashboard)**
+🔗 **[View Project](https://github.com/monesh-r/Student-Performance-Analytics-Dashboard)**
 
 ---
 
@@ -173,7 +173,7 @@ Key areas include:
 - Structured validation pipelines
 - Automated test and result processing
 
-🔗 **[View Project](https://github.com/Mo-nesh/Data-Quality-Results-Automation-Platform)**
+🔗 **[View Project](https://github.com/monesh-r/Data-Quality-Results-Automation-Platform)**
 
 ---
 
@@ -248,7 +248,7 @@ Features include:
 - PowerPoint generation
 - Presentation download
 
-🔗 **[View Project](https://github.com/Mo-nesh/Interactive-Presentation-Generator)**
+🔗 **[View Project](https://github.com/monesh-r/Interactive-Presentation-Generator)**
 
 ---
 
@@ -271,7 +271,7 @@ The project demonstrates:
 - Student performance analysis
 - SQL-based analytical reporting
 
-🔗 **[View Project](https://github.com/Mo-nesh/Personalized-Learning-Tracker)**
+🔗 **[View Project](https://github.com/monesh-r/Personalized-Learning-Tracker)**
 
 ---
 
@@ -293,7 +293,7 @@ The project includes:
 - Data visualization
 - Analytical dashboard reporting
 
-🔗 **[View Project](https://github.com/Mo-nesh/Wellness-Productivity-Dashboard)**
+🔗 **[View Project](https://github.com/monesh-r/Wellness-Productivity-Dashboard)**
 
 ---
 
@@ -311,7 +311,7 @@ The system uses hand landmark detection and gesture recognition to control:
 - System functions
 - Volume controls
 
-🔗 **[View Project](https://github.com/Mo-nesh/AI-Virtual-Mouse-System)**
+🔗 **[View Project](https://github.com/monesh-r/AI-Virtual-Mouse-System)**
 
 ---
 
@@ -330,7 +330,7 @@ The project focuses on:
 - Cloud-enabled education
 - Technology-enabled learning
 
-🔗 **[View Project](https://github.com/Mo-nesh/Cloud-Computing-in-Educational-Sectors)**
+🔗 **[View Project](https://github.com/monesh-r/Cloud-Computing-in-Educational-Sectors)**
 
 ---
 
@@ -382,7 +382,7 @@ I am particularly interested in building **data-driven systems that improve oper
 
 💼 **LinkedIn:** [linkedin.com/in/moneshr](https://www.linkedin.com/in/moneshr)
 
-🐙 **GitHub:** [github.com/Mo-nesh](https://github.com/Mo-nesh)
+🐙 **GitHub:** [github.com/monesh-r](https://github.com/monesh-r)
 
 ---
 
