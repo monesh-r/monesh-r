@@ -155,10 +155,7 @@ The framework is designed to identify learning gaps and support data-driven acad
 
 🔗 **[View Project](https://github.com/monesh-r/Student-Performance-Intelligence-Analytics-Platform)**
 
-
-
 ---
-
 ## 📱 Data Quality & Results Automation Platform
 
 **Python | Data Validation | Data Quality | Automation | WhatsApp API**
@@ -180,7 +177,6 @@ Key areas include:
 🔗 **[View Project](https://github.com/monesh-r/Data-Quality-Results-Automation-Platform)**
 
 ---
-
 ## 📈 Enterprise Workforce Cohort & Retention Analytics
 
 **Python | Pandas | Data Analytics | Cohort Analysis | Workforce Analytics**
@@ -203,7 +199,7 @@ Key analytical areas include:
 - Drop-off analysis
 - Month-wise workforce tracking
 - Management reporting
-
+  
 The project transforms complex operational datasets into structured analytical outputs and management-ready funnel and cohort reports.
 
 🔗 **[View Project](https://github.com/monesh-r/Enterprise-Workforce-Cohort-Retention-Analytics)**
