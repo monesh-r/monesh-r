@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./github-banner.png" alt="Monesh R - AI/ML Engineer | Data Analyst | Business Intelligence" width="100%">
-</p>
+
 
 # Hi 👋, I'm Monesh R
 
