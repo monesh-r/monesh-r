@@ -130,7 +130,7 @@ The project focuses on transforming student assessment data into actionable insi
 
 ---
 
-## 🎯 Student Performance & Learning Analytics Framework
+## 🎯 Student Performance & Intelligence Analytics Framework
 
 **Python | Excel | Power BI | Educational Analytics | Performance Analysis**
 
@@ -152,6 +152,10 @@ Includes:
 - Visual dashboards and management reports
 
 The framework is designed to identify learning gaps and support data-driven academic improvement.
+
+🔗 **[View Project](https://github.com/monesh-r/Student-Performance-Intelligence-Analytics-Platform)**
+
+
 
 ---
 
@@ -202,6 +206,8 @@ Key analytical areas include:
 
 The project transforms complex operational datasets into structured analytical outputs and management-ready funnel and cohort reports.
 
+🔗 **[View Project](https://github.com/monesh-r/Enterprise-Workforce-Cohort-Retention-Analytics)**
+
 ---
 
 ## 📊 NPS Performance & Executive Analytics Dashboard
@@ -222,6 +228,8 @@ The solution tracks and presents:
 - Management-level insights
 
 The dashboard was used as part of the AI Control Tower analytics workflow to support daily reporting and management discussions.
+
+🔗 **[View Project](https://github.com/monesh-r/NPS-Intelligence-Executive-Reporting-Automation-Platform)**
 
 ---
 
