@@ -388,6 +388,9 @@ I am particularly interested in building **data-driven systems that improve oper
 
 🐙 **GitHub:** [github.com/monesh-r](https://github.com/monesh-r)
 
+## 📄 Resume
+
+📥 **[View / Download My Resume](./Monesh_R_AI_Data_Analyst_Resume.pdf)**
 ---
 
 # ⭐ Thank You for Visiting!
